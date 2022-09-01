@@ -12,7 +12,7 @@
 /* Twitch embed dynamic */
 
 .twitch .twitch-video {
-  padding-top: 100%;
+  padding-top: 56.25%;
   position: relative;
   height: 0;
 }
